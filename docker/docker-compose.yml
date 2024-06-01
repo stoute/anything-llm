@@ -1,6 +1,7 @@
 version: "3.9"
 
-name: anythingllm
+# FIX ME: regex error in docker-compose
+# name: anythingllm
 
 networks:
   anything-llm:
